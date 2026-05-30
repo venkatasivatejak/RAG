@@ -9,3 +9,4 @@ print(f"List after adding '!': {l1}")
 # Removing an item
 l1.remove('awesome')
 print(f"List after removing 'awesome': {l1}")
+
